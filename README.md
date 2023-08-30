@@ -2,7 +2,8 @@
 
 This repository will be utilized for pushing the activities in here, which will serve as a progression tracker and reviewer.
 
-For those who will use this as a reviewer, there is no need to download anything. 
+For those who will use this as a reviewer, there is no need to download anything. You can download them naman, pero I'm not sure how.
+If you know how to download, **__make sure to use the latest version of Visual Studio**__
 You can view the codes of each project by doing the following:
 
 
@@ -17,7 +18,5 @@ You can view the codes of each project by doing the following:
 
 4. After that, open the **Program.cs** file. Andun yung code!
 ![image](https://github.com/ardnyx/comp-prog-review/assets/86859621/b29d3af1-7ce1-47b0-b8a3-6f6841a17a9f)
-
-#Alternative
 
 
