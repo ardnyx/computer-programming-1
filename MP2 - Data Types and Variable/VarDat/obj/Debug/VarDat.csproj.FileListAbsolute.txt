@@ -1,0 +1,14 @@
+C:\Users\student\Downloads\VarDat\VarDat\bin\Debug\VarDat.exe.config
+C:\Users\student\Downloads\VarDat\VarDat\bin\Debug\VarDat.exe
+C:\Users\student\Downloads\VarDat\VarDat\bin\Debug\VarDat.pdb
+C:\Users\student\Downloads\VarDat\VarDat\obj\Debug\VarDat.csprojAssemblyReference.cache
+C:\Users\student\Downloads\VarDat\VarDat\obj\Debug\VarDat.csproj.CoreCompileInputs.cache
+C:\Users\student\Downloads\VarDat\VarDat\obj\Debug\VarDat.exe
+C:\Users\student\Downloads\VarDat\VarDat\obj\Debug\VarDat.pdb
+C:\Users\Dann\Downloads\MP2\VarDat\bin\Debug\VarDat.exe.config
+C:\Users\Dann\Downloads\MP2\VarDat\bin\Debug\VarDat.exe
+C:\Users\Dann\Downloads\MP2\VarDat\bin\Debug\VarDat.pdb
+C:\Users\Dann\Downloads\MP2\VarDat\obj\Debug\VarDat.csproj.AssemblyReference.cache
+C:\Users\Dann\Downloads\MP2\VarDat\obj\Debug\VarDat.csproj.CoreCompileInputs.cache
+C:\Users\Dann\Downloads\MP2\VarDat\obj\Debug\VarDat.exe
+C:\Users\Dann\Downloads\MP2\VarDat\obj\Debug\VarDat.pdb

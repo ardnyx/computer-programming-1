@@ -1,0 +1,14 @@
+C:\Users\student\Desktop\MP3_Leyesa\odd-even\odd-even\bin\Debug\odd-even.exe.config
+C:\Users\student\Desktop\MP3_Leyesa\odd-even\odd-even\bin\Debug\odd-even.exe
+C:\Users\student\Desktop\MP3_Leyesa\odd-even\odd-even\bin\Debug\odd-even.pdb
+C:\Users\student\Desktop\MP3_Leyesa\odd-even\odd-even\obj\Debug\odd-even.csprojAssemblyReference.cache
+C:\Users\student\Desktop\MP3_Leyesa\odd-even\odd-even\obj\Debug\odd-even.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\MP3_Leyesa\odd-even\odd-even\obj\Debug\odd-even.exe
+C:\Users\student\Desktop\MP3_Leyesa\odd-even\odd-even\obj\Debug\odd-even.pdb
+C:\Users\Dann\Downloads\MP3\odd-even\odd-even\bin\Debug\odd-even.exe.config
+C:\Users\Dann\Downloads\MP3\odd-even\odd-even\bin\Debug\odd-even.exe
+C:\Users\Dann\Downloads\MP3\odd-even\odd-even\bin\Debug\odd-even.pdb
+C:\Users\Dann\Downloads\MP3\odd-even\odd-even\obj\Debug\odd-even.csproj.AssemblyReference.cache
+C:\Users\Dann\Downloads\MP3\odd-even\odd-even\obj\Debug\odd-even.csproj.CoreCompileInputs.cache
+C:\Users\Dann\Downloads\MP3\odd-even\odd-even\obj\Debug\odd-even.exe
+C:\Users\Dann\Downloads\MP3\odd-even\odd-even\obj\Debug\odd-even.pdb

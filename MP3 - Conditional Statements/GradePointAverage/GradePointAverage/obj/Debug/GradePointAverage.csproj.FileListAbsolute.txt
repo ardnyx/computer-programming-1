@@ -1,0 +1,14 @@
+C:\Users\student\Desktop\MP3_Leyesa\GradePointAverage\GradePointAverage\bin\Debug\GradePointAverage.exe.config
+C:\Users\student\Desktop\MP3_Leyesa\GradePointAverage\GradePointAverage\bin\Debug\GradePointAverage.exe
+C:\Users\student\Desktop\MP3_Leyesa\GradePointAverage\GradePointAverage\bin\Debug\GradePointAverage.pdb
+C:\Users\student\Desktop\MP3_Leyesa\GradePointAverage\GradePointAverage\obj\Debug\GradePointAverage.csprojAssemblyReference.cache
+C:\Users\student\Desktop\MP3_Leyesa\GradePointAverage\GradePointAverage\obj\Debug\GradePointAverage.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\MP3_Leyesa\GradePointAverage\GradePointAverage\obj\Debug\GradePointAverage.exe
+C:\Users\student\Desktop\MP3_Leyesa\GradePointAverage\GradePointAverage\obj\Debug\GradePointAverage.pdb
+C:\Users\Dann\Downloads\MP3\GradePointAverage\GradePointAverage\bin\Debug\GradePointAverage.exe.config
+C:\Users\Dann\Downloads\MP3\GradePointAverage\GradePointAverage\bin\Debug\GradePointAverage.exe
+C:\Users\Dann\Downloads\MP3\GradePointAverage\GradePointAverage\bin\Debug\GradePointAverage.pdb
+C:\Users\Dann\Downloads\MP3\GradePointAverage\GradePointAverage\obj\Debug\GradePointAverage.csproj.AssemblyReference.cache
+C:\Users\Dann\Downloads\MP3\GradePointAverage\GradePointAverage\obj\Debug\GradePointAverage.csproj.CoreCompileInputs.cache
+C:\Users\Dann\Downloads\MP3\GradePointAverage\GradePointAverage\obj\Debug\GradePointAverage.exe
+C:\Users\Dann\Downloads\MP3\GradePointAverage\GradePointAverage\obj\Debug\GradePointAverage.pdb
