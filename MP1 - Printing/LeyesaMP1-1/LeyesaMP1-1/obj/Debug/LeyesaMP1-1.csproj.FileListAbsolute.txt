@@ -1,7 +1,0 @@
-C:\Users\student\source\repos\LeyesaMP1-1\LeyesaMP1-1\bin\Debug\LeyesaMP1-1.exe.config
-C:\Users\student\source\repos\LeyesaMP1-1\LeyesaMP1-1\bin\Debug\LeyesaMP1-1.exe
-C:\Users\student\source\repos\LeyesaMP1-1\LeyesaMP1-1\bin\Debug\LeyesaMP1-1.pdb
-C:\Users\student\source\repos\LeyesaMP1-1\LeyesaMP1-1\obj\Debug\LeyesaMP1-1.csprojAssemblyReference.cache
-C:\Users\student\source\repos\LeyesaMP1-1\LeyesaMP1-1\obj\Debug\LeyesaMP1-1.csproj.CoreCompileInputs.cache
-C:\Users\student\source\repos\LeyesaMP1-1\LeyesaMP1-1\obj\Debug\LeyesaMP1-1.exe
-C:\Users\student\source\repos\LeyesaMP1-1\LeyesaMP1-1\obj\Debug\LeyesaMP1-1.pdb
