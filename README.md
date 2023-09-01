@@ -3,7 +3,7 @@
 This repository will be utilized for pushing the activities in here, which will serve as a progression tracker and reviewer.
 
 For those who will use this as a reviewer, there is no need to download anything. You can download them naman, pero I'm not sure how.
-If you know how to download, <b><u>make sure to use the latest version of Visual Studio</u></b>
+If you know how to download, <b><u>make sure to use the latest version of Visual Studio</u></b>.
 You can view the codes of each project by doing the following:
 
 
