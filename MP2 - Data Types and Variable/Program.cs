@@ -23,7 +23,7 @@ namespace VarDat
 
             // Prompt the user to enter the second number
             Console.Write("Enter the 2nd Number: ");
-            val2 = Int32.Parse(Console.ReadLine()); // Read and convert input in one step
+            val2 = Int32.Parse(Console.ReadLine()); // Read and convert input in one step. Pinagsama natin yung "Read the user's input as a string" and "Convert the string to an int" in one function. 
 
             // Perform calculations using the entered values
             totVal = val1 + val2; // Calculate the sum of the two numbers
