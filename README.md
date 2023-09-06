@@ -11,8 +11,8 @@ For those who will use this as a reviewer, there is no need to download anything
 
 You can view the codes of each project by doing the following:
 
-
-1. Click the folder of the respective machine problem (MP#)
+# PC / Mobile
+1. Click the folder of the respective machine problem (MP#). For mobile users, pindutin nyo yung "View Code" if hindi niyo makita.
 ![image](https://github.com/ardnyx/comp-prog-review/assets/86859621/22cb8f41-0fa8-4a2b-9c40-8bc31d4c2381)
 
 2. Navigate to the respective project folder (if there is any)
