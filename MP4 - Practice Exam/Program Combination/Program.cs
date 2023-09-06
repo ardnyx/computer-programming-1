@@ -10,15 +10,23 @@ namespace MP4_Leyesa
     {
         static void Main(string[] args)
         {
+            /* For the command input. Quick info dump, ang pinagkaiba ng Console.WriteLine and Console.Write is that Console.WriteLine's next input will be at the next line.
+             For example, 
+            Console.WriteLine's result will be:
+            Result: ____
+            
+            Console.Write's result will be: Result:_____
+            This is why pagdating sa user input, mas preferred yung Write kasi nasa next line lang yung input, pero depende parin naman sa gusto mo maachieve.*/
             Console.WriteLine(@"Good Day Fellow Klasmeyt! I have a program prepared for you
 Would you like to see your horoscope or do a short quiz?
 
 [1] Horoscope
-[2] Do a Short Quiz");
-            int horo_quiz = int.Parse(Console.ReadLine());
+[2] Do a Short Quiz"); /* If mapapansin niyo dito, gumamit ako ng @ before " sa Console.WriteLine, ginawa ko siya para di na ako maglalagay ng Console.WriteLine kada new line na gusto 
+                        kong igenerate. Ang cons nito is di siya malinis tignan and mahirap na i-keep track kapag humaba code (tignan nyo yung mga Sign Facts mamaya sa baba hindi naka-indent).*/
+            int horo_quiz = int.Parse(Console.ReadLine()); 
             Console.Clear();
 
-            if (horo_quiz == 1)
+            if (horo_quiz == 1) 
             {
                 Console.WriteLine("Input Your Zodiac Sign: ");
                 Console.WriteLine("[1] Aries");
@@ -33,14 +41,18 @@ Would you like to see your horoscope or do a short quiz?
                 Console.WriteLine("[10] Capricorn");
                 Console.WriteLine("[11] Aquarius");
                 Console.WriteLine("[12] Pisces");
-                int zodiac = int.Parse(Console.ReadLine());
+                int zodiac = int.Parse(Console.ReadLine()); /* As usual, if you want to input a number, dapat int ang gagamitin, followed by the variable (zodiac), and then ipaparse niyo siya. 
+                                                             Also, di niyo kailangan gumamit ng Parse kapag string yung data type na gagamitin nyo, diretso Console.ReadLine(); na agad
+                
+                                                             Example: string zodiac = Console.ReadLine(); 
+                                                             string ang gagamitin niyo if ang gusto niyong input ay words. */
                 Console.WriteLine("");
                 Console.Clear();
 
                 if (zodiac == 1 )
                 {
                     Console.WriteLine(@"Sign Facts:
-
+ 
 1. Aries, a Fire sign ruled by Mars, falls between March 21 and April 19.
 2. Aries individuals are assertive and independent, often displaying courage in pursuing their goals.
 3. They make natural leaders but can be impulsive at times.
@@ -54,7 +66,8 @@ Lucky Numbers: 12, 2, 6
 Sign Compatibility:
 Good: Leo, Sagittarius, Gemini
 Natural: Aries, Taurus, Cancer
-Bad: Virgo, Scorpio, Capricorn");
+Bad: Virgo, Scorpio, Capricorn"); /* Ito yung sinasabi ko guys, di siya malinis tignan, kasi di siya nag-aauto nest kapag ganito yung way, pero and pros niya is pwede ako magcopy-paste ng paragraphs
+                                    nang hindi na gumagamit ng Console.WriteLine kada line. */
                 }
 
                 if (zodiac == 2)
@@ -288,8 +301,8 @@ Bad: Gemini, Sagittarius, Aquarius");
                 Console.Clear();
 
                 Console.Write("Please enter your name: ");
-                string name = Console.ReadLine();
-                Console.Clear();
+                string name = Console.ReadLine(); // This line stores my input name sa variable "name" as a string. Also as stated sa comment ko sa taas kanina, when using strings, no need to parse.
+                Console.Clear(); // This line is meant to clear the terminal after writing my name, para malinis lang tignan.
 
                 Console.WriteLine(@"This test is about various questions about tech which will consist of 5 questions.
 Each question will consist of 4 choices. Input the number of the correct choice to answer. Goodluck!
@@ -299,7 +312,7 @@ Press any key to continue");
                 Console.ReadKey();
                 Console.Clear();
 
-                int score = 0;
+                int score = 0; // This is called accumulation technique (I mean in my own term), kasi dito mo isstore yung score mo, it starts as zero, and madadagdagan yan kada correct answer sa quiz.
 
                 Console.WriteLine(@"Question 1: Who is the founder of C#?
 ");
@@ -308,15 +321,15 @@ Press any key to continue");
                 Console.WriteLine("[3] Anders Hejlsberg");
                 Console.WriteLine("[4] Anders Helsjberg");
                 Console.Write("Answer: ");
-                int answer1 = int.Parse(Console.ReadLine());
+                int answer1 = int.Parse(Console.ReadLine()); // Grabbing the answer as an integer, kasi 1-4 ang choices ko and not a-d (in which case, dapat char ang gagamitin).
 
                 if (answer1 == 3)
                 {
-                    score += 1;
+                    score += 1; // This code is meant to add +1 value sa "int score = 0;" sa taas. Maaaccumulate yan hanggang sa matapos yung quiz.
                 }
                 else
                 {
-
+                    // Bakit empty yung else? Kasi wala naman akong gustong mangyari, this is for incorrect answers (kapag ang answer is hindi 3.)
                 }
                 Console.Clear();
 
@@ -406,7 +419,8 @@ Press any key to continue");
 
                 if (choice == 1)
                 {
-                    Console.WriteLine($"{name}'s score: {score}/5");
+                    Console.WriteLine($"{name}'s score: {score}/5"); /* Another technique na ginagawa ko para madaling ipagsama yung variable tsaka print sentences, nilalagyan ko ng $ sa unahan
+                                                                      * And then to call a variable, {variable name}. Hindi na gagamit ng + tapos " " */
                 }
 
                 else if (choice == 2)

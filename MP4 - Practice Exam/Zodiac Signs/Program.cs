@@ -10,8 +10,8 @@ namespace MP4_Part_1
     {
         static void Main(string[] args)
         {
-            Console.Write("Input Your Zodiac Sign: ");
-            string zodiac = Console.ReadLine();
+            Console.Write("Input Your Zodiac Sign: "); 
+            string zodiac = Console.ReadLine(); 
             Console.WriteLine("");
 
             if (zodiac == "Aries")
