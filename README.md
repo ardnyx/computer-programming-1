@@ -1,7 +1,3 @@
-# Computer Programming 1
-
-**Words of Wisdom**: There are better, efficient, and advanced techniques to make the codes for the following problems better. Pero that comes with time, experience, and a firm understanding of the fundamentals. I am sharing this repository to give you guys an insight on how I structure my program based sa tinuro during Lab sessions and how I understand them, so that in future activities, madedevelop niyo pa yung techniques and idea generation niyo by seeing and understanding how others code their programs.
-
 I have also added others' programs in here para makita niyo rin on what techniques others use, or how they methodize. *See Ignacio.cs on MP4 - Practice Exam/Combination*
 
 This repository will be utilized for pushing the activities in here, which will serve as a progression tracker and reviewer. 
