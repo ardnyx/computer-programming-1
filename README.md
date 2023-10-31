@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 # Computer Programming 1
+=======
+>>>>>>> 8f60cdd5f758c154cda5d3b928a781dc67615ab5
 I have also added others' programs in here para makita niyo rin on what techniques others use, or how they methodize. *See Ignacio.cs on MP4 - Practice Exam/Combination*
 
 This repository will be utilized for pushing the activities in here, which will serve as a progression tracker and reviewer. 
